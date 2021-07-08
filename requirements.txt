@@ -4,3 +4,4 @@ Type option
 Speak option
 Colourful
 Vibrant
+Dark mode
